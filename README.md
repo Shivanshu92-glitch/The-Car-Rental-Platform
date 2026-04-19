@@ -1,16 +1,4 @@
-
-# Rent a Ride
-
-This repository contains the code for a Full stack car rental website with 3 modules User,Admin,Vendor . The project is divided into Client  and  backend 
-
-
-## Installation
-
-Clone Rent a Ride
-
-```bash
-https://github.com/jeevan-aj/Rent-a-Ride.git
-```
+`
 
 Install node modules
 
