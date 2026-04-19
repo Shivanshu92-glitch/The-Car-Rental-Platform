@@ -1,5 +1,3 @@
-`
-
 Install node modules
 
 ```bash
