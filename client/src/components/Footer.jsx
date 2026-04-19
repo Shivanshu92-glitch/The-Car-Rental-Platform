@@ -50,7 +50,7 @@ import {
           <div className="w-full sm:flex sm:items-center sm:justify-between lg:px-10 ">
             <FooterCopyright href="#" by="Rent a Ride" year={2024} />
             <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
-              <FooterIcon href="https://www.linkedin.com/in//" icon={BsLinkedin} />
+              <FooterIcon href="https://www.linkedin.com/in/" icon={BsLinkedin} />
               <FooterIcon href="https://github.com/Shivanshu92-glitch" icon={BsGithub} />
               <FooterIcon href="#" icon={BsInstagram} />
               <FooterIcon href="#" icon={BsTwitter} />
